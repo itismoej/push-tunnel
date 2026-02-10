@@ -1,0 +1,9 @@
+{
+  "psk": "change-me-to-a-strong-random-secret",
+  "firebase_project": "weatherpulse-12345",
+  "firebase_credentials": "serviceAccountKey.json",
+  "sender_id": "123456789012",
+  "peer_fcm_token": "",
+  "listen_addr": ":8080",
+  "socks_port": 1080
+}

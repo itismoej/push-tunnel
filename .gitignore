@@ -1,0 +1,18 @@
+# Go
+server/push-tunnel
+*.exe
+
+# Dart
+client/.dart_tool/
+client/.packages
+client/pubspec.lock
+
+# Config with secrets
+config.json
+serviceAccountKey.json
+gcm_credentials.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
